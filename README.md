@@ -1,5 +1,10 @@
 Folder Organizer
 
+## Video Demonstration
+
+[Video](demo.mp4).
+
+
 This project is a Flask-based web application that uses OpenAI's GPT-4 model to organize files in a directory into predefined folders. The application takes a directory path as input and organizes the files in the directory into folders such as "Media", "Documents", "Apps", and "Miscellaneous".
 Setup
 
