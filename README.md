@@ -1,7 +1,5 @@
 Folder Organizer
 
-## Video Demonstration
-
 [Video](demo.mp4).
 
 
